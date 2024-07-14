@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\game development\\DodgeObstacles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2931D6-D80F-DD42-1E72-1A7E20F4CC21}|Assembly-CSharp.csproj|z:\\game development\\dodgeobstacles\\assets\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2931D6-D80F-DD42-1E72-1A7E20F4CC21}|Assembly-CSharp.csproj|solutionrelative:assets\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mover.cs",
+              "DocumentMoniker": "Z:\\game development\\DodgeObstacles\\Assets\\Mover.cs",
+              "RelativeDocumentMoniker": "Assets\\Mover.cs",
+              "ToolTip": "Z:\\game development\\DodgeObstacles\\Assets\\Mover.cs*",
+              "RelativeToolTip": "Assets\\Mover.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:28:35.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
